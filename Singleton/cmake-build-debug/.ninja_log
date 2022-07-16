@@ -1,0 +1,24 @@
+# ninja log v5
+1	490	1657691326445855936	CMakeFiles/Singleton.dir/main.cpp.o	e95ad7b64f3f9c1a
+8	148	1657693127499196691	build.ninja	e05154b7fd9110b4
+1	632	1657693128132663618	CMakeFiles/Singleton.dir/main.cpp.o	e95ad7b64f3f9c1a
+1	633	1657693128136812421	CMakeFiles/Singleton.dir/logger.cpp.o	a79754513dec6521
+633	690	1657693128195669533	Singleton	9bec19bc7ce5efbb
+1	557	1657693330224840523	CMakeFiles/Singleton.dir/main.cpp.o	e95ad7b64f3f9c1a
+2	558	1657693330228358530	CMakeFiles/Singleton.dir/logger.cpp.o	a79754513dec6521
+558	606	1657693330277420084	Singleton	9bec19bc7ce5efbb
+1	540	1657693730596738601	CMakeFiles/Singleton.dir/main.cpp.o	e95ad7b64f3f9c1a
+2	542	1657693730600954481	CMakeFiles/Singleton.dir/logger.cpp.o	a79754513dec6521
+542	591	1657693730651591870	Singleton	9bec19bc7ce5efbb
+3	529	1657693966409171750	CMakeFiles/Singleton.dir/logger.cpp.o	a79754513dec6521
+2	530	1657693966409313457	CMakeFiles/Singleton.dir/main.cpp.o	e95ad7b64f3f9c1a
+530	581	1657693966464084768	Singleton	9bec19bc7ce5efbb
+2	538	1657694109265107724	CMakeFiles/Singleton.dir/main.cpp.o	e95ad7b64f3f9c1a
+3	538	1657694109265009766	CMakeFiles/Singleton.dir/logger.cpp.o	a79754513dec6521
+538	591	1657694109322027682	Singleton	9bec19bc7ce5efbb
+2	491	1657694148203374597	CMakeFiles/Singleton.dir/main.cpp.o	e95ad7b64f3f9c1a
+2	491	1657694148202043723	CMakeFiles/Singleton.dir/logger.cpp.o	a79754513dec6521
+491	540	1657694148253826564	Singleton	9bec19bc7ce5efbb
+2	502	1657694231595105207	CMakeFiles/Singleton.dir/main.cpp.o	e95ad7b64f3f9c1a
+2	502	1657694231594966833	CMakeFiles/Singleton.dir/logger.cpp.o	a79754513dec6521
+502	548	1657694231645489195	Singleton	9bec19bc7ce5efbb

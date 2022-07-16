@@ -1,0 +1,3 @@
+/Users/apli.ai/Desktop/Personal/DesignPatterns/Singleton/cmake-build-debug/CMakeFiles/Singleton.dir
+/Users/apli.ai/Desktop/Personal/DesignPatterns/Singleton/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/apli.ai/Desktop/Personal/DesignPatterns/Singleton/cmake-build-debug/CMakeFiles/rebuild_cache.dir
